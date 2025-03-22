@@ -1,0 +1,23 @@
+{
+  "name": "snowgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjobe026/snowgame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjobe026/snowgame/issues"
+  },
+  "homepage": "https://github.com/cjobe026/snowgame#readme",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
+}
